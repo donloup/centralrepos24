@@ -1,4 +1,10 @@
 java
 python
 bash
-Javascript
+JavaScript
+ruby
+go
+C++
+php
+html
+
